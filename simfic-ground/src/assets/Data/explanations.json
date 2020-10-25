@@ -1,0 +1,14 @@
+[
+    {"id":"Author's Writing Style", "value": "Writing style describes how an author tells a story. An author's writing style comprises choice of words, sentence complexity, usage of punctuation,avg sentence length, etc."},
+    {"id":"Sentence complexity", "value": "It indicates the length of sentences along with the usage of punctuations and conjunctions."},
+    {"id":"Female oriented or Male oriented", "value": "Indicates that the plot of the book is male or female oriented."},
+    {"id":"Ease of readability", "value": "It indicates the level of ease in reading the text."},
+    {"id":"Sentiment", "value": "It indicates the flow of sentiment throughout the story."},
+    {"id":"Plot Complexity", "value": "Indicates the number of characters in the plot."},
+    {"id":"Rural or Urban Setting", "value": "It describes the subject of the story."},
+    {"id":"Lexical Richness", "value": "Lexical Richness is defined by the quality of vocabulary used in the book and is used to compare two authors. "},
+    {"id":"Content Based genre", "value":"Instead of making use of the genre determined by popular websites ,the genre of a book here is determined by the content of the book."},
+    {"id":"Main character presence", "value":"Indicates the distribution of emotions for start and end of the book."},
+    {"id":"Dialog interactions", "value":"Dialog interactions are defined based on who is leading the conversation. We call it DIALOGUE if characters are talking and NARRATION if narrator is speaking"},
+    {"id":"Emotions", "value": "It defines the flow of emotions for the start and end of the book."}
+]
